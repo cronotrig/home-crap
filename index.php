@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Gaston's page</title>
+		<title>Gaston's shity page</title>
 	</head>
 	<body>
 		<div>
-			Blah
+			hmm Titty sprinkles
 		</div>
 
 <?php 
 
-print("hello");
+print("hello Fool");
 
 ?>
 
